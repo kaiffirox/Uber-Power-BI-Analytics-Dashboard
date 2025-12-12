@@ -72,8 +72,6 @@ Revenue analysis segmented by:
 - Payment Method  
 - Monthly & Quarterly revenue trends  
 
-(UPI was the most used payment method)
-
 ---
 
 ### 🔹 **Rider Page**
@@ -99,7 +97,35 @@ Location-based intelligence:
 
 ---
 
-## 🛠 4. Technical Work & Features
+## 🖼️ 4. Dashboard Screenshots
+
+### **Home Page**
+<img width="602" height="401" alt="image" src="https://github.com/user-attachments/assets/35a5d38f-8984-4418-b056-f61434abfd9c" />
+
+### **Overview Page**
+
+<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/38942380-5ff8-4f1e-872f-7fa5a5cfac3d" />
+
+
+### **Revenue Page**
+<img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/ea422e2d-562a-4b87-86b0-bd0680d1b5b3" />
+
+
+### **Rider Analytics Page**
+<img width="940" height="630" alt="image" src="https://github.com/user-attachments/assets/db50b9c1-0dfa-4469-9e97-2911876ecb6a" />
+
+
+### **Vehicle Performance Page**
+<img width="940" height="637" alt="image" src="https://github.com/user-attachments/assets/6b7640b4-2ae3-415b-81be-2ed5f951b5b2" />
+
+
+### **Location Intelligence Page**
+<img width="940" height="631" alt="image" src="https://github.com/user-attachments/assets/c1a663df-5c5c-4e7c-a539-d6c0f94c81a2" />
+
+
+---
+
+## 🛠 5. Technical Work & Features
 
 ### **🔧 Data Modeling**
 A clean star schema containing:
@@ -133,19 +159,19 @@ A clean star schema containing:
 
 ---
 
-## 📈 5. Key Business Insights
+## 📈 6. Key Business Insights
 
 - **Auto** generated the highest revenue (~$13M).  
 - **UPI** was the top payment method (~$23M).  
-- **Khandsa** was the busiest pickup area; **Ashram** highest drop location.  
+- **Khandsa** was the busiest pickup area; **Ashram** the top drop location.  
 - **March** had the highest bookings and revenue (~$4.56M).  
-- **February** saw the lowest activity across KPIs.  
-- Rider rating: **4.39**, Driver rating: **4.23** (strong service quality).  
-- Most canceled rides were due to **customer-side issues**.  
+- **February** showed the lowest activity across KPIs.  
+- Rider rating: **4.39**, Driver rating: **4.23**.  
+- Majority of **lost bookings** were due to customer cancellations.  
 
 ---
 
-## 🚀 6. Value Delivered
+## 🚀 7. Value Delivered
 
 This dashboard empowers Uber operations teams to:
 
@@ -158,7 +184,7 @@ This dashboard empowers Uber operations teams to:
 
 ---
 
-## 📜 7. How to Use the Dashboard
+## 📜 8. How to Use the Dashboard
 
 1. Download the `.pbix` file.  
 2. Open in **Power BI Desktop**.  
@@ -167,12 +193,12 @@ This dashboard empowers Uber operations teams to:
 
 ---
 
-## 👨‍💻 8. Author
+## 👨‍💻 9. Author
 
 **Mohammad Kaif Firoz**  
 Data Analyst — SQL | Power BI | Excel | Tableau | Python  
 
-📧 **kaifsidd2003@gmail.com**  
+📧 **Email:** kaifsidd2003@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/kaiffiroz/  
 
 ---
